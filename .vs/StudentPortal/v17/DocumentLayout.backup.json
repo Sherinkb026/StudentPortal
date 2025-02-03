@@ -3,16 +3,44 @@
   "WorkspaceRootPath": "C:\\Programmer\\CYPHERON TECHNOLOGIES\\repos\\StudentPortal\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FE40B591-C6CC-4EAB-8F1B-F72FA457045E}|StudentPortal\\StudentPortal.csproj|c:\\programmer\\cypheron technologies\\repos\\studentportal\\studentportal\\views\\student\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FE40B591-C6CC-4EAB-8F1B-F72FA457045E}|StudentPortal\\StudentPortal.csproj|solutionrelative:studentportal\\views\\student\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{FE40B591-C6CC-4EAB-8F1B-F72FA457045E}|StudentPortal\\StudentPortal.csproj|c:\\programmer\\cypheron technologies\\repos\\studentportal\\studentportal\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FE40B591-C6CC-4EAB-8F1B-F72FA457045E}|StudentPortal\\StudentPortal.csproj|solutionrelative:studentportal\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{FE40B591-C6CC-4EAB-8F1B-F72FA457045E}|StudentPortal\\StudentPortal.csproj|c:\\programmer\\cypheron technologies\\repos\\studentportal\\studentportal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE40B591-C6CC-4EAB-8F1B-F72FA457045E}|StudentPortal\\StudentPortal.csproj|solutionrelative:studentportal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE40B591-C6CC-4EAB-8F1B-F72FA457045E}|StudentPortal\\StudentPortal.csproj|c:\\programmer\\cypheron technologies\\repos\\studentportal\\studentportal\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FE40B591-C6CC-4EAB-8F1B-F72FA457045E}|StudentPortal\\StudentPortal.csproj|solutionrelative:studentportal\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE40B591-C6CC-4EAB-8F1B-F72FA457045E}|StudentPortal\\StudentPortal.csproj|c:\\programmer\\cypheron technologies\\repos\\studentportal\\studentportal\\models\\addstudentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE40B591-C6CC-4EAB-8F1B-F72FA457045E}|StudentPortal\\StudentPortal.csproj|solutionrelative:studentportal\\models\\addstudentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE40B591-C6CC-4EAB-8F1B-F72FA457045E}|StudentPortal\\StudentPortal.csproj|c:\\programmer\\cypheron technologies\\repos\\studentportal\\studentportal\\models\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE40B591-C6CC-4EAB-8F1B-F72FA457045E}|StudentPortal\\StudentPortal.csproj|solutionrelative:studentportal\\models\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE40B591-C6CC-4EAB-8F1B-F72FA457045E}|StudentPortal\\StudentPortal.csproj|c:\\programmer\\cypheron technologies\\repos\\studentportal\\studentportal\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE40B591-C6CC-4EAB-8F1B-F72FA457045E}|StudentPortal\\StudentPortal.csproj|solutionrelative:studentportal\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE40B591-C6CC-4EAB-8F1B-F72FA457045E}|StudentPortal\\StudentPortal.csproj|c:\\programmer\\cypheron technologies\\repos\\studentportal\\studentportal\\views\\student\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FE40B591-C6CC-4EAB-8F1B-F72FA457045E}|StudentPortal\\StudentPortal.csproj|solutionrelative:studentportal\\views\\student\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{FE40B591-C6CC-4EAB-8F1B-F72FA457045E}|StudentPortal\\StudentPortal.csproj|c:\\programmer\\cypheron technologies\\repos\\studentportal\\studentportal\\views\\student\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{FE40B591-C6CC-4EAB-8F1B-F72FA457045E}|StudentPortal\\StudentPortal.csproj|solutionrelative:studentportal\\views\\student\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE40B591-C6CC-4EAB-8F1B-F72FA457045E}|StudentPortal\\StudentPortal.csproj|c:\\programmer\\cypheron technologies\\repos\\studentportal\\studentportal\\views\\student\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FE40B591-C6CC-4EAB-8F1B-F72FA457045E}|StudentPortal\\StudentPortal.csproj|solutionrelative:studentportal\\views\\student\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE40B591-C6CC-4EAB-8F1B-F72FA457045E}|StudentPortal\\StudentPortal.csproj|c:\\programmer\\cypheron technologies\\repos\\studentportal\\studentportal\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE40B591-C6CC-4EAB-8F1B-F72FA457045E}|StudentPortal\\StudentPortal.csproj|solutionrelative:studentportal\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,24 +50,128 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
+              "Title": "ApplicationDBContext.cs",
+              "DocumentMoniker": "C:\\Programmer\\CYPHERON TECHNOLOGIES\\repos\\StudentPortal\\StudentPortal\\Data\\ApplicationDBContext.cs",
+              "RelativeDocumentMoniker": "StudentPortal\\Data\\ApplicationDBContext.cs",
+              "ToolTip": "C:\\Programmer\\CYPHERON TECHNOLOGIES\\repos\\StudentPortal\\StudentPortal\\Data\\ApplicationDBContext.cs",
+              "RelativeToolTip": "StudentPortal\\Data\\ApplicationDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T08:57:02.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Programmer\\CYPHERON TECHNOLOGIES\\repos\\StudentPortal\\StudentPortal\\appsettings.json",
+              "RelativeDocumentMoniker": "StudentPortal\\appsettings.json",
+              "ToolTip": "C:\\Programmer\\CYPHERON TECHNOLOGIES\\repos\\StudentPortal\\StudentPortal\\appsettings.json",
+              "RelativeToolTip": "StudentPortal\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-31T08:47:40.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Programmer\\CYPHERON TECHNOLOGIES\\repos\\StudentPortal\\StudentPortal\\Program.cs",
+              "RelativeDocumentMoniker": "StudentPortal\\Program.cs",
+              "ToolTip": "C:\\Programmer\\CYPHERON TECHNOLOGIES\\repos\\StudentPortal\\StudentPortal\\Program.cs",
+              "RelativeToolTip": "StudentPortal\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T08:37:02.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Programmer\\CYPHERON TECHNOLOGIES\\repos\\StudentPortal\\StudentPortal\\Models\\Entities\\Student.cs",
+              "RelativeDocumentMoniker": "StudentPortal\\Models\\Entities\\Student.cs",
+              "ToolTip": "C:\\Programmer\\CYPHERON TECHNOLOGIES\\repos\\StudentPortal\\StudentPortal\\Models\\Entities\\Student.cs",
+              "RelativeToolTip": "StudentPortal\\Models\\Entities\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T08:22:11.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AddStudentViewModel.cs",
+              "DocumentMoniker": "C:\\Programmer\\CYPHERON TECHNOLOGIES\\repos\\StudentPortal\\StudentPortal\\Models\\AddStudentViewModel.cs",
+              "RelativeDocumentMoniker": "StudentPortal\\Models\\AddStudentViewModel.cs",
+              "ToolTip": "C:\\Programmer\\CYPHERON TECHNOLOGIES\\repos\\StudentPortal\\StudentPortal\\Models\\AddStudentViewModel.cs",
+              "RelativeToolTip": "StudentPortal\\Models\\AddStudentViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T07:51:28.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "C:\\Programmer\\CYPHERON TECHNOLOGIES\\repos\\StudentPortal\\StudentPortal\\Views\\Student\\Add.cshtml",
+              "RelativeDocumentMoniker": "StudentPortal\\Views\\Student\\Add.cshtml",
+              "ToolTip": "C:\\Programmer\\CYPHERON TECHNOLOGIES\\repos\\StudentPortal\\StudentPortal\\Views\\Student\\Add.cshtml",
+              "RelativeToolTip": "StudentPortal\\Views\\Student\\Add.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-31T07:50:12.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "List.cshtml",
               "DocumentMoniker": "C:\\Programmer\\CYPHERON TECHNOLOGIES\\repos\\StudentPortal\\StudentPortal\\Views\\Student\\List.cshtml",
               "RelativeDocumentMoniker": "StudentPortal\\Views\\Student\\List.cshtml",
-              "ToolTip": "C:\\Programmer\\CYPHERON TECHNOLOGIES\\repos\\StudentPortal\\StudentPortal\\Views\\Student\\List.cshtml*",
-              "RelativeToolTip": "StudentPortal\\Views\\Student\\List.cshtml*",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAACoAAABUAAAAAAAAAA==",
+              "ToolTip": "C:\\Programmer\\CYPHERON TECHNOLOGIES\\repos\\StudentPortal\\StudentPortal\\Views\\Student\\List.cshtml",
+              "RelativeToolTip": "StudentPortal\\Views\\Student\\List.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACoAAABUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-01-31T05:40:08.173Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Programmer\\CYPHERON TECHNOLOGIES\\repos\\StudentPortal\\StudentPortal\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "StudentPortal\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Programmer\\CYPHERON TECHNOLOGIES\\repos\\StudentPortal\\StudentPortal\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "StudentPortal\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwBkAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T06:28:26.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Programmer\\CYPHERON TECHNOLOGIES\\repos\\StudentPortal\\StudentPortal\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "StudentPortal\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Programmer\\CYPHERON TECHNOLOGIES\\repos\\StudentPortal\\StudentPortal\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "StudentPortal\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T08:28:15.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Programmer\\CYPHERON TECHNOLOGIES\\repos\\StudentPortal\\StudentPortal\\Views\\Student\\Edit.cshtml",
               "RelativeDocumentMoniker": "StudentPortal\\Views\\Student\\Edit.cshtml",
@@ -48,19 +180,6 @@
               "ViewState": "AgIAABIAAAAAAAAAAAAAwDMAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-01-31T05:06:47.219Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "StudentController.cs",
-              "DocumentMoniker": "C:\\Programmer\\CYPHERON TECHNOLOGIES\\repos\\StudentPortal\\StudentPortal\\Controllers\\StudentController.cs",
-              "RelativeDocumentMoniker": "StudentPortal\\Controllers\\StudentController.cs",
-              "ToolTip": "C:\\Programmer\\CYPHERON TECHNOLOGIES\\repos\\StudentPortal\\StudentPortal\\Controllers\\StudentController.cs",
-              "RelativeToolTip": "StudentPortal\\Controllers\\StudentController.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAgwCoAAAA3AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-30T06:28:26.076Z",
               "EditorCaption": ""
             }
           ]
